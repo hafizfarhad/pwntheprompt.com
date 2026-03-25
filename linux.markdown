@@ -5,4 +5,4 @@ title: "Linux"
 
 My journey about learning linux:
 
-1. [Linux 0x00: Absolute vs. Relative File Paths](/linux/file-paths/)
+1. [Linux 0x00: Filesystem Paths, Absolute and Relative](/linux/filesystem-paths/)
